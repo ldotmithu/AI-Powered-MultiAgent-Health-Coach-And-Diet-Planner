@@ -1,0 +1,36 @@
+# LangChain Core Tools
+langchain
+langchain-core
+langchain-community
+
+# LangGraph for multi-agent graph
+langgraph
+
+# LLM provider (choose one or both as per your usage)
+langchain-groq
+langchain-openai
+
+# Web framework for backend
+fastapi
+uvicorn
+
+# Tool dependencies (optional based on your tools)
+pandas
+numpy
+
+# If using environment variables or configs
+python-dotenv
+
+# For async HTTP requests (if needed)
+httpx
+
+# If using structured output or Pydantic models
+pydantic
+
+# For basic visualization/debugging (optional)
+rich
+
+# Optional if you run in Jupyter
+ipython
+jupyter
+-e .
