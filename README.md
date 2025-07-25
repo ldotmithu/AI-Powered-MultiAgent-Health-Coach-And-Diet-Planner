@@ -53,8 +53,8 @@ This application combines:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/ai-health-fitness-assistant.git
-cd ai-health-fitness-assistant
+git clone https://github.com/ldotmithu/AI-Powered-MultiAgent-Health-Coach-And-Diet-Planner.git
+cd AI-Powered-MultiAgent-Health-Coach-And-Diet-Planner
 ```
 
 ### 2. Create & Activate Virtual Environment
